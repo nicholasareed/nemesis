@@ -1,0 +1,19 @@
+
+/* Header */
+
+.header_links {
+  text-align: right;
+  float: right;
+}
+
+
+
+
+/* Against */
+
+#against .friend {
+  float: left;
+  width: 240px;
+
+  cursor: pointer;
+}
