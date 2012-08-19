@@ -8,4 +8,4 @@
 .DS_Store
 /tags
 /app/Config/credentials.php
-
+/logs
